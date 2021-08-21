@@ -1,4 +1,13 @@
-# ThreatHunting
+# ThreatHunting using PYIRLogAnalysis
+
+PYIRLogAnalysis - A Python Tool for Incident Response Log Analysis
+
+    ██████╗ ██╗   ██╗██╗██████╗ ██╗      ██████╗  ██████╗  █████╗ ███╗   ██╗ █████╗ ██╗     ██╗   ██╗███████╗██╗███████╗
+    ██╔══██╗╚██╗ ██╔╝██║██╔══██╗██║     ██╔═══██╗██╔════╝ ██╔══██╗████╗  ██║██╔══██╗██║     ╚██╗ ██╔╝██╔════╝██║██╔════╝
+    ██████╔╝ ╚████╔╝ ██║██████╔╝██║     ██║   ██║██║  ███╗███████║██╔██╗ ██║███████║██║      ╚████╔╝ ███████╗██║███████╗
+    ██╔═══╝   ╚██╔╝  ██║██╔══██╗██║     ██║   ██║██║   ██║██╔══██║██║╚██╗██║██╔══██║██║       ╚██╔╝  ╚════██║██║╚════██║
+    ██║        ██║   ██║██║  ██║███████╗╚██████╔╝╚██████╔╝██║  ██║██║ ╚████║██║  ██║███████╗   ██║   ███████║██║███████║
+    ╚═╝      
 
 The python tool PYIRLogAnalysis (Python Incident Response Log Analysis), it is Operating System and Application Agnostic Log analysis tool. The python tool will parse through different logs files either from Windows, Linux or Third-party applications such as Microsoft Defender endpoint logs. After parsing the logs, it will create python objects. Each object represents the computer device from which the logs files were collected. You can perform actions on these python objects such as generating process activity reports. The current version of the code currently accepts only the Microsoft Defender endpoint logs.
 
