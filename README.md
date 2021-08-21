@@ -22,8 +22,14 @@ Type Exit to end the program.
 Sample Commands when running in .py interface:
 
 Please enter the name of the computer from the list you would like to investigate: cybercookie1
+
 Please enter the name of the process: powershell.exe
+
 Please enter the name of the file: lsziokgt.dll
+
 Please enter the start time for example "2021-07-04 11:00" , [no quotes]: 2021-07-04 11:00
+
 Please enter the end time for example "2021-07-04 11:30 , [no quotes]": 2021-07-04 11:45
+
 Please enter the IOC -Indicators of Compromise: df9892a9e7e5de380dec73231eee79e7ed1b8b0ee97d3aa1f11ed8cfedf00163
+
